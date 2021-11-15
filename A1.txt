@@ -1,0 +1,52 @@
+There are various OOP languages but the most widely used are:
+
+Python
+Java
+Go
+Dart
+C++
+C#
+Ruby
+
+The aim of OOP is to implement real-world entities like inheritance, hiding, polymorphism in programming. The main purpose of OOP is to bind together the data and the 
+functions that operate on them so that no other part of the code can access this data except that function.
+
+The OOP has the following four features:
+
+Inheritance
+Encapsulation
+Polymorphism
+Data Abstraction
+
+
+OOPs, programming paradigm is considered as a better style of programming. Not only it helps in writing a complex piece of code easily, 
+but it also allows users to handle and maintain them easily as well. Not only that, the main pillar of OOPs - Data Abstraction, Encapsulation, Inheritance, and Polymorphism, makes it easy for programmers to solve complex scenarios. As a result of these, OOPs is so popular.
+
+Advantages of OOP
+
+It follows a bottom-up approach.
+It models the real word well.
+It allows us the reusability of code.
+Avoids unnecessary data exposure to the user by using the abstraction.
+OOP forces the designers to have a long and extensive design phase that results in better design and fewer flaws.
+Decompose a complex problem into smaller chunks.
+Programmer are able to reach their goals faster.
+Minimizes the complexity.
+Easy redesign and extension of code that does not affect the other functionality.
+Disadvantages of OOP
+
+Proper planning is required.
+Program design is tricky.
+Programmer should be well skilled.
+Classes tend to be overly generalized.
+
+limitations of OOPs
+Requires intensive testing processes.
+Solving problems takes more time as compared to Procedure Oriented Programming.
+The size of the programs created using this approach may become larger than the programs written using the procedure-oriented programming approach.
+Software developed using this approach requires a substantial amount of pre-work and planning.
+OOP code is difficult to understand if you do not have the corresponding class documentation.
+In certain scenarios, these programs can consume a large amount of memory.
+Not suitable for small problems.
+Takes more time to solve problems.
+
