@@ -1,0 +1,50 @@
+Object-oriented Programming      	
+It follows a bottom-up approach.	
+It provides data hiding.	
+It is used to solve complex problems.	
+It allows reusability of code that reduces redundancy of code.	
+It is based on objects rather than functions and procedures.	
+It provides more security as it has a data hiding feature.	
+More abstraction more flexibility.
+It focuses on data.	
+
+
+
+Structural Programming
+It follows a top-down approach.
+Data hiding is not allowed.
+It is used to solve moderate problems.
+Reusability of code is not allowed.
+It provides a logical structure to a program in which the program is divided into functions.
+It provides less security as it does not support the data hiding feature.
+Less abstraction less flexibility.
+It focuses on the process or logical structure.
+
+The programming language is called pure object-oriented language that treats everything inside the program as an object. The primitive types are not supported by the pure OOPs language. There are some other features that must satisfy by a pure object-oriented language:
+
+Encapsulation
+Inheritance
+Polymorphism
+Abstraction
+All predefined types are objects
+All user-defined types are objects
+All operations performed on objects must be only through methods exposed to the objects.
+Java is not a pure object-oriented programming language because pre-defined data types in Java are not treated as objects. 
+Hence, it is not an object-oriented language.
+
+Class: A class is a blueprint or template of an object. It is a user-defined data type. Inside a class, we define variables, constants, member functions, and other 
+functionality. It does not consume memory at run time. Note that classes are not considered as a data structure. It is a logical entity. 
+It is the best example of data binding.
+
+Object: An object is a real-world entity that has attributes, behavior, and properties. It is referred to as an instance of the class. It contains member functions, 
+variables that we have defined in the class. It occupies space in the memory. Different objects have different states or attributes, and behaviors.
+
+In OOPs language, access specifiers are reserved keyword that is used to set the accessibility of the classes, methods and other members of the class. It is also known as access modifiers. It includes public, private, and protected.
+ There is some other access specifier that is language-specific. Such as Java has another access specifier default. These access specifiers play a vital role in achieving one of the major functions of OOP, i.e. encapsulation. 
+ The following table depicts the accessibility.
+
+Manipulators are helping functions. It is used to manipulate or modify the input or output stream. The modification is possible by using the insertion (<<) and extraction (>>) operators. Note that the modification of input or 
+output stream does not mean to change the values of variables. There are two types of manipulators with arguments or without arguments.
+
+The example of manipulators that do not have arguments is endl, ws, flush, etc. Manipulators with arguments are setw(val), setfill(c), setbase(val), setiosflags(flag).
+ Some other manipulators are showpos, fixed, scientific, hex, dec, oct, etc.
