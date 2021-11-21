@@ -1,0 +1,46 @@
+rules for creating a constructor:
+It cannot have a return type.
+It must have the same name as the Class name.
+It cannot be marked as static.
+It cannot be marked as abstract.
+It cannot be overridden.
+It cannot be final.
+
+
+An abstract class is a class that is declared as abstract. It cannot be instantiated and is always used as a base class.
+ The characteristics of an abstract class are as follows:
+
+Instantiation of an abstract class is not allowed. It must be inherited.
+An abstract class can have both abstract and non-abstract methods.
+An abstract class must have at least one abstract method.
+You must declare at least one abstract method in the abstract class.
+It is always public.
+It is declared using the abstract
+The purpose of an abstract class is to provide a common definition of the base class
+ that multiple derived classes can share.
+
+Composition is one of the vital concepts in OOP. It describes a class that references one or more objects of 
+other classes in instance variables. It allows us to model a has-a association between objects. We can find such relationships in the real world. 
+For example, a car has an engine. the following figure depicts the same
+
+The main benefits of composition are:
+
+Reuse existing code
+Design clean APIs
+Change the implementation of a class used in a composition without adapting any external clients.
+
+differences between copy constructor and assignment operator?
+The copy constructor and the assignment operator (=) both are used to initialize one object using another object. The main difference between the two is that the copy constructor allocates separate memory to both objects i.e. existing object and newly created object while the assignment operator does not allocate new memory for the newly created object. It uses the reference variable that points to the previous memory block (where an old object is located).
+
+Syntax of Copy Constructor
+
+class_name (const class_name &obj)  
+{  
+//body  
+}  
+Syntax of Assignment Operator
+
+class_name obj1, obj2;  
+obj1=obj2;  
+
+
